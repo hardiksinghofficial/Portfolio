@@ -43,7 +43,7 @@ export default function Socials() {
       </a>
 
       <a
-        href="https://www.linkedin.com/in/"
+        href="https://www.linkedin.com/in/hardik-singh-83056b32a/"
         target="_blank"
         rel="noopener noreferrer"
         className={`p-5 rounded-lg transition-all duration-300 transform hover:-translate-y-[4px] dark:brightness-75 ${hoverClass}`}
@@ -53,7 +53,7 @@ export default function Socials() {
       </a>
 
       <a
-        href="https://www.naukri.com/"
+        href="https://www.linkedin.com/in/hardik-singh-83056b32a/"
         target="_blank"
         rel="noopener noreferrer"
         className={`p-5 rounded-lg transition-all duration-300 transform hover:-translate-y-[4px] dark:brightness-75 ${hoverClass}`}
