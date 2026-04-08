@@ -21,7 +21,7 @@ export default function Footer() {
           <FiGithub className="w-5 h-5" />
         </a>
         <a
-          href="https://www.linkedin.com/in/ayush-das-4674a1239/"
+          href="https://www.linkedin.com/in/hardik-singh-83056b32a/"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:text-foreground transition-colors"
